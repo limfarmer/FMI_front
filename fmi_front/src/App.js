@@ -1,5 +1,5 @@
 import "./App.css";
-import Header from "./TeamDetailPage/TeamDetailPage";
+import Header from "./Header/Header";
 
 function App() {
   return (
